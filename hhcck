@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DaniHRE/DinoVision/main/DinoVisionV1.lua", true))()
